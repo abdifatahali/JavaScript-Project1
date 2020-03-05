@@ -7,7 +7,6 @@
    Event Timer
    Author: Abdifatah Ali
    Date:   01/17/2020
-
 */
 
 /* Call the showClock() function. */
