@@ -1,13 +1,4 @@
 "use strict";
-/*
-   New Perspectives on HTML5 and CSS3, 7th Edition
-   Tutorial 9
-   Review Assignment
-
-   Event Timer
-   Author: Abdifatah Ali
-   Date:   01/17/2020
-*/
 
 /* Call the showClock() function. */
 showClock();
